@@ -1,0 +1,2 @@
+The Drive Playback node can be used to directly control the rate of playback of the DriveTarget. Since this is a drive, it is possible to localize the speed of playback, or even whether the clip is played at all, for different users.
+
