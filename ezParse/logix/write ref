@@ -1,0 +1,1 @@
+The Write Ref node overwrites the Reference with a reference to the input Target when an impulse is received at Write.
