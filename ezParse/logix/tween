@@ -1,0 +1,13 @@
+The Tween node is used to interpolate the value of Target starting at From, and ending at To over Duration seconds when an impulse is received at Tween.
+
+- To value determines the final value reached at the end of the Duration.
+
+- From value determines the initial value at the start of the Duration.
+
+- Duration input determines how long the transition from From to To takes in seconds. Default is 1.
+
+- CurvePreset determines the shape of the interpolated values. Default is Smooth.
+
+- The OnStarted output fires an impulse when tweening of the Target begins as a result of an impulse received at Tween. An impulse will not be fired if there is no valid Target. This impulse continues the impulse chain which arrived at Tween.
+
+- The OnDone output fires an impulse when tweening of the Target has finished. This does not continue the impulse chain which arrived at Tween.
