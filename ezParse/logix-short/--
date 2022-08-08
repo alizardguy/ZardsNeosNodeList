@@ -1,6 +1,1 @@
 The -- node reduces the referenced Target value by one when it receives an impulse at Decrement.
-
-The OnDone output fires an impulse when the Target value has been decremented. An impulse will not fire if there is no valid Target. This impulse continues the impulse chain which arrived at Decrement.
-
-
-This node differs from the -1 node under Operators since it only makes changes when it receives an impulse. This makes it useful for decrementing a target value (e.g. one stored in a variable node or component e.g. a ValueField) in a way which is saved and synchronized across all users. If the aim is to decrement a value locally as part of a LogiX calculation the -1 node is likely the better choice.

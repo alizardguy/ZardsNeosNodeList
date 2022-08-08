@@ -1,0 +1,3 @@
+The Up node outputs the vector in global coordinate space which is parallel to the Instance slot's positive Y coordinate vector.
+
+The output vector is normalized such that its magnitude is 1.

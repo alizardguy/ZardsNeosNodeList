@@ -1,0 +1,1 @@
+The Write Latch node node overwrites the referenced Target value with the input SetValue or ResetValue when an impulse is received at Set or Reset respectively.

@@ -1,0 +1,1 @@
+The Write Ref Latch node node overwrites the target reference with the input SetReference or ResetReference when an impulse is received at Set or Reset respectively.

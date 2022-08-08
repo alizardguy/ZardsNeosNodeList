@@ -1,4 +1,2 @@
 The Drive node will start driving the referenced DriveTarget with the input Source value when an impulse is received at StartDrive. 
 The drive can be stopped by an impulse received at StopDrive.
-
-The Source input has a 'dummy' datatype when the node is spawned from the node browser. However, the node will overload to the correct value type when a suitable wire is connected.
