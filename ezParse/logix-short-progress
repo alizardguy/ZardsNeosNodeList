@@ -9,3 +9,13 @@ TODO:
 
 WIP:
 Operators - current on +/- 
+
+
+Binds:
+? - QUESTION_MARK
+: - COLON
+* - ASTERISK
+| - BAR
+² - SQUARED
+/ - FORWARD_SLASH
+% - PERCENT
