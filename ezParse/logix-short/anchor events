@@ -1,0 +1,1 @@
+The Anchor Events node fires an impulse from OnAnchored when a user enters the referenced input AvatarAnchor and fires an impulse from OnReleased when a user exits the anchor.
