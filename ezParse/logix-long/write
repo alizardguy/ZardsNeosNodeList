@@ -1,0 +1,6 @@
+The Write node overwrites the referenced Target value with the input Value when an impulse is received at Write.
+
+The OnDone output fires an impulse when the Target value has been successfully overwritten after an impulse was received at Write or the Target value is driven by a system which allows an attempted written variable to be hooked (e.g. Drive node, ValueCopy component, etc.). This impulse continues the impulse chain which arrived at Write.
+
+
+The OnFail output fires an impulse when the Target value could not be set, e.g. if the Target value is driven from another source which does not allow hooking of the written value, or if there is no valid Target. This impulse continues the impulse chain which arrived at Write.
