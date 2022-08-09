@@ -1,0 +1,1 @@
+outputs the Root BodyNode unless the Node is an Eye, Palm, or Finger node.

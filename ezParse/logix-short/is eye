@@ -1,0 +1,1 @@
+outputs True if the input Node is either LeftEye or RightEye, otherwise False.
