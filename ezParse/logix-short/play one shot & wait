@@ -1,1 +1,1 @@
-The Play One Shot & Wait node plays the input Clip when an impulse is received at Play and sends ONFinishedPlaying when finished.
+The Play One Shot & Wait node plays the input Clip when an impulse is received at Play and sends OnFinishedPlaying when finished.
