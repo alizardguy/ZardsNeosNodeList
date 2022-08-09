@@ -19,3 +19,5 @@ Binds:
 ² - SQUARED
 / - FORWARD_SLASH
 % - PERCENT
+> - GREATER_THAN
+< - LESS_THAN
