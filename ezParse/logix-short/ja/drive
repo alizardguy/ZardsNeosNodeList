@@ -1,0 +1,1 @@
+Driveノードは StartDrive でインパルスを受け取ると、入力 Source 値で参照されている DriveTarget をドライブし始めます。ドライブはStopDriveでインパルスを受信すると停止します。
