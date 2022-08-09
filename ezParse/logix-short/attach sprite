@@ -1,0 +1,1 @@
+The Attach Sprite node creates a StaticTexture2D component on the Target slot and fills the component's URL field with the input URL. A SpriteProvider component is also created whose Texture field is filled with a reference to the newly created StaticTexture2D component.
