@@ -1,0 +1,1 @@
+The Sample Texture2D UV node samples the color of a pixel by locating it on the input 2D texture according to the specified position in UV space. This node is distinct from from the Get Texture 2D Pixel node as it accepts a float2 instead of an int2; this lets the sampling be interpolated across pixels rather than being constrained to individual pixels.
