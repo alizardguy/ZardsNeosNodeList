@@ -1,1 +1,1 @@
-Converts a vector into a direction so that the total equals 1.
+Converts a vector into a direction so that the vector sum equals 1 or -1.
