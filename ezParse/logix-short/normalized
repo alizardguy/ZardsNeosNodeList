@@ -1,1 +1,1 @@
-Outputs a vector that is the input vector divided by its magnitude so that the new vector has a magnitude of 1.
+Converts a vector into a direction so that the total equals 1.
