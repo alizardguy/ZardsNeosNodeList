@@ -1,0 +1,1 @@
+Checks whether inputs A and B are approximately equal. If they are within the margin of error specified this node outputs True.

@@ -1,0 +1,1 @@
+The ÷dT node divides the input value by the duration of the previous frame update (in seconds).
