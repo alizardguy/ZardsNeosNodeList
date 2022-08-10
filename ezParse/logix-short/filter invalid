@@ -1,0 +1,1 @@
+Outputs the input Value unless it contains the special NaN or Infinity values.
